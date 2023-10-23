@@ -4,18 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3d0f89-56c1-43fe-b3f5-bd64e739ba45" name="Changes" comment="created new project">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Main.java" afterDir="false" />
+    <list default="true" id="9f3d0f89-56c1-43fe-b3f5-bd64e739ba45" name="Changes" comment="removed the default code">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698048641524</updated>
-      <workItem from="1698048642657" duration="551000" />
+      <workItem from="1698048642657" duration="876000" />
     </task>
     <task id="LOCAL-00001" summary="created new project">
       <created>1698048975786</created>
@@ -51,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698048975786</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="removed the default code">
+      <created>1698049227056</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698049227056</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,7 +91,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="created new project" />
+    <MESSAGE value="removed the default code" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed the default code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
