@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3d0f89-56c1-43fe-b3f5-bd64e739ba45" name="Changes" comment="removed the default code">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Person.java" afterDir="false" />
+    <list default="true" id="9f3d0f89-56c1-43fe-b3f5-bd64e739ba45" name="Changes" comment="created a person class">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698048641524</updated>
-      <workItem from="1698048642657" duration="876000" />
+      <workItem from="1698048642657" duration="1462000" />
     </task>
     <task id="LOCAL-00001" summary="created new project">
       <created>1698048975786</created>
@@ -72,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698049227056</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="created a person class">
+      <created>1698049551649</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698049551649</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,7 +99,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created new project" />
     <MESSAGE value="removed the default code" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed the default code" />
+    <MESSAGE value="created a person class" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a person class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
